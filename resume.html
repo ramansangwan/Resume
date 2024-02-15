@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raman Sangwan - Software Engineer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+
+    header {
+      text-align: center;
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    h2 {
+      border-bottom: 2px solid #333;
+      padding-bottom: 5px;
+    }
+
+    p {
+      margin: 10px 0;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    ul li {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Raman Sangwan</h1>
+    <p>Software Engineer</p>
+  </header>
+
+  <section>
+    <h2>Contact Information</h2>
+    <p>Email: ramansangwan1628@gmail.com</p>
+    <p>Phone: (123) 456-7890</p>
+    <p>GitHub: github.com/ramansangwan</p>
+  </section>
+
+  <section>
+    <h2>Summary</h2>
+    <p>Experienced IT professional with a strong background in software engineering. Proven track record of delivering high-quality solutions in a collaborative team environment. Skilled in [list specific skills or technologies].</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <h3>Software Engineer | Apple | 1/1/2023 - Present</h3>
+    <ul>
+      <li>Developed and maintained software applications.</li>
+      <li>Collaborated with cross-functional teams to deliver projects on time.</li>
+      <li>Data Security</li>
+    </ul>
+
+    <h3>System Technician | Bell Canada | 1/1/2021 - 31/12/2022 </h3>
+    <ul>
+      <li>Install and configure telecommunication equipment, including telephone lines, internet services, and TV services.
+Ensure proper connections and functionality of devices such as modems, routers, and set-top boxes</li>
+	 <li>Diagnose and resolve issues related to telecommunication services, including internet connectivity problems, signal issues, and equipment malfunctions.</li>
+	 <li>Perform quality checks on installed equipment to ensure compliance with industry standards and company guidelines.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <h3>Bachelor of Science in Computer Science | Toronto University | 2020</h3>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Programming Languages: Python, Markup Languages, CSS, Java, etc.</li>
+      <li>Web Technologies:Aritificial Intelligence, Web designing</li>
+      <li>Database: MS SQL & MS Access</li>
+     
+    </ul>
+  </section>
+
+</body>
+</html>
